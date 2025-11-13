@@ -104,7 +104,8 @@ MUL BL
 HLT
 ```
  ## Output  
-<img width="1268" height="612" alt="image" src="https://github.com/user-attachments/assets/0779f014-8dac-41ed-a0d2-dd33494f8122" />
+<img width="1271" height="609" alt="image" src="https://github.com/user-attachments/assets/9dab9afb-563c-49bb-bd1e-a08e33d32592" />
+
 
 
 
@@ -117,6 +118,7 @@ HLT
 ```
 ## Output  
 
+<img width="1273" height="600" alt="image" src="https://github.com/user-attachments/assets/f557b5ee-db12-426e-8e91-6d36e2abcd97" />
 
 ## Result :
  Thus to Write and execute ALP on fundamental arithmetic and logical operations are verified successfully
